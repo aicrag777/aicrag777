@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I am looking to collaborate in the field of architecture. If you’re interested, please reach out to me. 📫
 - 📫 How to reach me ... aicrag777usa@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--- ⚡ Fun fact: ...--->
 
 <!---
 aicrag777/aicrag777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
